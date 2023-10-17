@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+li{
+	list-style-type:none;
+	display:inline;
+	margin-right:50px;
+	
+}
+a{
+	text-decoration:none;
+	color:white;
+	
+	
+	
+}
+nav{
+	display:flex;
+	height:40px;
+	width:100%;
+	background-color:black;
+	justify-content:center;
+	align-items:center;
+	
+	
+	
+}
